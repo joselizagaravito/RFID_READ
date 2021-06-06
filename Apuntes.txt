@@ -1,0 +1,1 @@
+configurar duaracion de la se;al al PIO02
